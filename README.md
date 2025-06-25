@@ -7,6 +7,7 @@ process
 technology
 
 ## CIA Triad
+### DAD Triad
 1. Confidentiality
 2. integrity
 3. Availability
